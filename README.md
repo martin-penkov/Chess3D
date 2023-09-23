@@ -1,1 +1,1 @@
-# Chess3D
+Babylon.js project

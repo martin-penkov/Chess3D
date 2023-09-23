@@ -1,0 +1,26 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babylonjs/core": "^6.21.2",
+    "@babylonjs/gui": "^6.21.2",
+    "@babylonjs/gui-editor": "^6.21.2",
+    "@babylonjs/inspector": "^6.21.2",
+    "@babylonjs/loaders": "^6.21.2",
+    "@babylonjs/materials": "^6.21.2",
+    "@babylonjs/serializers": "^6.21.2",
+    "typescript": "^5.2.2",
+    "vite": "^4.4.9",
+    "vite-plugin-html": "^3.2.0",
+    "vite-plugin-static-copy": "^0.17.0"
+  }
+}
